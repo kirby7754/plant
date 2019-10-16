@@ -7,6 +7,8 @@ import RPi.GPIO as GPIO
 from subprocess import call # for shutdown
 import datetime
 
+#TEST
+
 filename = "plant_data"
 too_dry = 35             # set the trigger for watering
 
